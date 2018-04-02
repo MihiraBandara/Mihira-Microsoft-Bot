@@ -1,0 +1,42 @@
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Bot Application.dll.config
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Bot Application.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Bot Application.pdb
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Autofac.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Chronic.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Builder.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Connector.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Newtonsoft.Json.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Net.Http.Formatting.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Web.Http.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Web.Http.WebHost.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Autofac.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Builder.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.Bot.Connector.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\Newtonsoft.Json.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Net.Http.Formatting.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Web.Http.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\System.Web.Http.WebHost.xml
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\obj\Release\Mihira Bot.csproj.CoreCompileInputs.cache
+D:\Projects\Mihira-Bot\Mihira-Bot\obj\Release\Mihira Bot.csproj.CopyComplete
+D:\Projects\Mihira-Bot\Mihira-Bot\obj\Release\Bot Application.dll
+D:\Projects\Mihira-Bot\Mihira-Bot\obj\Release\Bot Application.pdb
+D:\Projects\Mihira-Bot\Mihira-Bot\obj\Release\Mihira Bot.csprojResolveAssemblyReference.cache
